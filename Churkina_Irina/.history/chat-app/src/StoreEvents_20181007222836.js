@@ -1,0 +1,6 @@
+module.exports = {
+  ADD_MSG: "ADD_MSG",
+  ADD_USER: "ADD_USER",
+  ADD_CHAT: "ADD_CHAT",
+  ADD_STATE_USER: "ADD_STATE_USER"
+};
